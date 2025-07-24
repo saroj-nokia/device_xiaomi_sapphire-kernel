@@ -9,7 +9,7 @@ set -e
 
 ### Setup
 DUMP=
-MY_DIR="${BASH_SOURCE%/*}"
+MY_DIR="."
 SRC_ROOT="${MY_DIR}/../../.."
 TMP_DIR=$(mktemp -d)
 EXTRACT_KERNEL=true
