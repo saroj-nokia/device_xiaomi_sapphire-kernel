@@ -1,5 +1,6 @@
 /lib/modules/debug-regulator.ko:
 /lib/modules/qcom_pm8008-regulator.ko: /lib/modules/debug-regulator.ko
+/lib/modules/miev.ko:
 /lib/modules/clk-dummy.ko: /lib/modules/clk-qcom.ko /lib/modules/gdsc-regulator.ko /lib/modules/proxy-consumer.ko /lib/modules/debug-regulator.ko
 /lib/modules/bootinfo.ko:
 /lib/modules/soc_sleep_stats.ko: /lib/modules/smem.ko
