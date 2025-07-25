@@ -4,7 +4,7 @@
 
 #include <linux/types.h>
 
-struct sched_param {
+struct __kernel_sched_param {
 	int sched_priority;
 };
 
