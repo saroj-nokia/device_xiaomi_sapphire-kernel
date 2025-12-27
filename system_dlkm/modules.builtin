@@ -261,6 +261,7 @@ kernel/drivers/scsi/ufs/ufshcd-pltfrm.ko
 kernel/drivers/scsi/ufs/ufs-hisi.ko
 kernel/drivers/scsi/sd_mod.ko
 kernel/drivers/spmi/spmi.ko
+kernel/drivers/net/ipvlan/ipvlan.ko
 kernel/drivers/net/dummy.ko
 kernel/drivers/net/wireguard/wireguard.ko
 kernel/drivers/net/ifb.ko
