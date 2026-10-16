@@ -107,6 +107,9 @@ extern "C" {
 #define SDE_DRM_BLEND_OP_MAX            4
 #define SDE_DRM_BLEND_OP_SKIP           5
 
+/* FOD (Fingerprint On Display) Z-order */
+#define FOD_PRESSED_LAYER_ZORDER 0x41000031
+
 /**
  * Sys Cache types for "syscache_type" property
  *
